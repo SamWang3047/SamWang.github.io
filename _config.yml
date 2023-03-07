@@ -1,22 +1,23 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Zhiyuan Wang SE Intern
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  A website for Zhiyuan Wang
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
-
+content:  22-year-old from Beijing, China, who has decided to pursue a career in Melbourne. Undergraduate major in Software Engineering, and Currently enrolled in the MIT program at the University of Melbourne.
+          I strongly believe that love is the best teacher and motivator, and I am committed to applying my knowledge and skills to my work in the software engineering field.
+          KEYWORD：Java, Spring Boot, Linux, Algorithm
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/SamWang3047
   - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://www.facebook.com/profile.php?id=100005703558242
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/SamWang70144014
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/zhiyuan-wang-250119256/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
