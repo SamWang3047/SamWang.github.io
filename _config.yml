@@ -7,18 +7,21 @@ description:  A website for Zhiyuan Wang
 # A brief blurb about yourself
 content:  22-year-old from Beijing, China, who has decided to pursue a career in Melbourne. Undergraduate major in Software Engineering, and Currently enrolled in the MIT program at the University of Melbourne.
           I strongly believe that love is the best teacher and motivator, and I am committed to applying my knowledge and skills to my work in the software engineering field.
-          KEYWORD：Java, Spring Boot, Linux, Algorithm
+          KEYWORDS：Java, Spring Boot, Linux, Algorithm
 # Add your social links
 social:
-  - platform: github
+  - platform: Github
     url: https://github.com/SamWang3047
-  - platform: facebook
+  - platform: Facebook
     url: https://www.facebook.com/profile.php?id=100005703558242
-  - platform: twitter
+  - platform: Twitter
     url: https://twitter.com/SamWang70144014
-  - platform: linkedin
+  - platform: Linkedin
     url: https://www.linkedin.com/in/zhiyuan-wang-250119256/
-
+  - platform: LeetcodeCN
+    url: https://leetcode.cn/u/samwang3047/
+  - platform: Leetcode
+    url: https://leetcode.com/SamWang3047/
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
