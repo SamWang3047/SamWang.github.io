@@ -5,17 +5,20 @@ title: Zhiyuan Wang SE Intern
 description:  A website for Zhiyuan Wang
 
 # A brief blurb about yourself
-content:  22-year-old from Beijing, China, who has decided to pursue a career in Melbourne. Undergraduate major in Software Engineering, and Currently enrolled in the MIT program at the University of Melbourne.
-          I strongly believe that love is the best teacher and motivator, and I am committed to applying my knowledge and skills to my work in the software engineering field.
-          KEYWORDS：Java, Spring Boot, Linux, Algorithm
+content:  
+
+ Tech Stack Backend JavaSE + SpringBoot, Frontend React, Container K8s, Cloud AWS
+ Machine Learning Frameworks TensorFlow, PyTorch, Scikit‑learn, Keras Data Science Tools Pandas, NumPy, Matplotlib, Seaborn
+
+ About Me
+ I am a passionate Software Development Engineer with a strong foundation in developing, and optimizing software solutions. I thrive in craft
+ ing efficient and scalable applications. I enjoy problem‑solving, collaborating in dynamic team environments, and continuously learning about
+ emerging technologies to deliver impactful results. My goal is to create software that not only meets business needs but also enhances user
+ experiences.
 # Add your social links
 social:
   - platform: Github
     url: https://github.com/SamWang3047
-  - platform: Facebook
-    url: https://www.facebook.com/profile.php?id=100005703558242
-  - platform: Twitter
-    url: https://twitter.com/SamWang70144014
   - platform: Linkedin
     url: https://www.linkedin.com/in/zhiyuan-wang-250119256/
   - platform: LeetcodeCN
