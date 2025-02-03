@@ -7,7 +7,7 @@ description:  A website for Zhiyuan Wang
 # A brief blurb about yourself
 content: |  
   <p><strong>Tech Stack</strong><br>
-  Backend: <strong>JavaSE + Spring Boot</strong>, Frontend: <strong>React</strong>, Container: <strong>K8s</strong>, Cloud: <strong>AWS</strong></p>
+  Backend: <strong>Java + Spring Boot, Redis + MyBatis, Apache Kafka</strong>, Frontend: <strong>React</strong>, Container: <strong>K8s</strong>, Cloud: <strong>AWS</strong></p>
 
   <p><strong>Machine Learning Frameworks</strong><br>
   <strong>TensorFlow</strong>, <strong>PyTorch</strong>, <strong>Scikit-learn</strong>, <strong>Keras</strong></p>
@@ -30,6 +30,8 @@ social:
     url: https://leetcode.cn/u/samwang3047/
   - platform: Leetcode
     url: https://leetcode.com/SamWang3047/
+  - platform: Projects
+    url: https://drive.google.com/drive/folders/1ro9s_R3kue0e-wwW76COhVv9T46efVAK?usp=sharing
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
