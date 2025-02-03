@@ -5,26 +5,20 @@ title: Zhiyuan Wang SE
 description:  A website for Zhiyuan Wang
 
 # A brief blurb about yourself
-# About Section (move this to index.md or _data/about.yml if not rendering)
-about:
-  tech_stack: 
-    - Backend: JavaSE + Spring Boot
-    - Frontend: React
-    - Container: Kubernetes (K8s)
-    - Cloud: AWS
-  machine_learning_frameworks:
-    - TensorFlow
-    - PyTorch
-    - Scikit-learn
-    - Keras
-  data_science_tools:
-    - Pandas
-    - NumPy
-    - Matplotlib
-    - Seaborn
-  summary: |
-    I am a passionate Software Development Engineer with a strong foundation in developing and optimizing software solutions. 
-    I thrive in crafting efficient, scalable applications and enjoy problem-solving, dynamic team collaboration, and exploring emerging technologies.
+content: |  
+  <p><strong>Tech Stack</strong><br>
+  Backend: <strong>JavaSE + Spring Boot</strong>, Frontend: <strong>React</strong>, Container: <strong>K8s</strong>, Cloud: <strong>AWS</strong></p>
+
+  <p><strong>Machine Learning Frameworks</strong><br>
+  <strong>TensorFlow</strong>, <strong>PyTorch</strong>, <strong>Scikit-learn</strong>, <strong>Keras</strong></p>
+
+  <p><strong>Data Science Tools</strong><br>
+  <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong></p>
+
+  <p><strong>About Me</strong><br>
+  I am a <strong>passionate Software Development Engineer</strong> with a strong foundation in <strong>developing</strong> and <strong>optimizing software solutions</strong>.  
+  I thrive in crafting efficient, scalable applications and enjoy <strong>problem-solving</strong>, <strong>team collaboration</strong>, and exploring emerging technologies.  
+  My goal is to create software that not only meets business needs but also enhances user experiences.</p>
 
 # Add your social links
 social:
