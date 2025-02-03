@@ -1,24 +1,31 @@
 # Your Name or Company
-title: Zhiyuan Wang SE Intern
+title: Zhiyuan Wang SE
 
 # Description of your website. This is used for social sharing.
 description:  A website for Zhiyuan Wang
 
 # A brief blurb about yourself
-content:  
+# About Section (move this to index.md or _data/about.yml if not rendering)
+about:
+  tech_stack: 
+    - Backend: JavaSE + Spring Boot
+    - Frontend: React
+    - Container: Kubernetes (K8s)
+    - Cloud: AWS
+  machine_learning_frameworks:
+    - TensorFlow
+    - PyTorch
+    - Scikit-learn
+    - Keras
+  data_science_tools:
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Seaborn
+  summary: |
+    I am a passionate Software Development Engineer with a strong foundation in developing and optimizing software solutions. 
+    I thrive in crafting efficient, scalable applications and enjoy problem-solving, dynamic team collaboration, and exploring emerging technologies.
 
- Tech Stack 
- Backend JavaSE + SpringBoot, Frontend React, Container K8s, Cloud AWS
- Machine Learning Frameworks 
- TensorFlow, PyTorch, Scikit‑learn, Keras 
- Data Science Tools 
- Pandas, NumPy, Matplotlib, Seaborn
-
- About Me
- I am a passionate Software Development Engineer with a strong foundation in developing, and optimizing software solutions. I thrive in craft
- ing efficient and scalable applications. I enjoy problem‑solving, collaborating in dynamic team environments, and continuously learning about
- emerging technologies to deliver impactful results. My goal is to create software that not only meets business needs but also enhances user
- experiences.
 # Add your social links
 social:
   - platform: Github
